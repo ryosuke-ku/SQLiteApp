@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteApp</string>
+    <string name="hint_key">company</string>
+    <string name="hint_value">US$price</string>
+    <string name="insert">insert</string>
+    <string name="read">read</string>
+    <string name="search">search</string>
+    <string name="update">update</string>
+</resources>
